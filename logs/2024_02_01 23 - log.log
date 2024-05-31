@@ -1,0 +1,12 @@
+02/01/2024 23:28:05 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/01/2024 23:28:05 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/01/2024 23:28:05 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+02/01/2024 23:28:05 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/01/2024 23:31:32 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 23:31:32 - INFO - app -   User Registered with Transaction id: pay_NVht1XZsJFyabn, Event Name: Roborace, Team Name: dsafasdf, Team ID: 349471, Member ID: 3494711, Name: asdfasdf, Course: asdfasdf, Contact: 8920916103, Email: levirenlerma@gmail.com
+02/01/2024 23:31:42 - INFO - Mail Client -   Mail Sent
+02/01/2024 23:31:42 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 23:54:46 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 23:54:46 - INFO - app -   User Registered with Transaction id: pay_NViHZbn510cN9f, Event Name: Roborace, Team Name: sgvzv xcv zxcv, Team ID: 897087, Member ID: 8970871, Name: scvsdfv, Course: zvsdfv zsdf, Contact: 8920916103, Email: mofeh63855@alibrs.com
+02/01/2024 23:55:20 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/01/2024 23:59:20 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0

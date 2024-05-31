@@ -1,0 +1,51 @@
+02/01/2024 22:16:54 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/01/2024 22:16:54 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/01/2024 22:16:54 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/01/2024 22:16:54 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/01/2024 22:16:54 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+02/01/2024 22:16:54 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/01/2024 22:16:54 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+02/01/2024 22:16:54 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/01/2024 22:17:46 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 22:17:46 - INFO - app -   User Registered with Transaction id: pay_NVgd6b3ivNODe5, Event Name: Roborace, Team Name: adsadads, Team ID: 826998, Member ID: 1001, Name: adadasd, Course: asdasdasd, Contact: 8920916103
+02/01/2024 22:17:51 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:17:51 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:25:33 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 22:25:33 - INFO - app -   User Registered with Transaction id: pay_NVglKelPRmkCNJ, Event Name: Codeathon, Team Name: asfasdfasdfa, Team ID: 474642, Member ID: 1002, Name: dfvsagdfvags, Course: ikwhjfjkvabsdh.g, Contact: 8920916103
+02/01/2024 22:26:07 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/01/2024 22:29:35 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/01/2024 22:31:46 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 22:31:46 - INFO - app -   User Registered with Transaction id: pay_NVgrtlC8yEbnDu, Event Name: Roborace, Team Name: sdfasdfasdf, Team ID: 258782, Member ID: 1001, Name: sadfasdf, Course: asdfasdf, Contact: 8920916103
+02/01/2024 22:31:49 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:31:49 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:33:32 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 22:33:32 - INFO - app -   User Registered with Transaction id: pay_NVgtklMjCAFPV5, Event Name: Roborace, Team Name: asdfasdfasdf, Team ID: 149456, Member ID: 1002, Name: asdfasdf, Course: asdfasfdas, Contact: 8920916103
+02/01/2024 22:33:40 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:33:40 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:35:16 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 22:35:16 - INFO - app -   User Registered with Transaction id: pay_NVgvaqV1cxQOHO, Event Name: Credenza, Team Name: dsagdsfhgsdgfh, Team ID: 423231, Member ID: 1003, Name: asdfgasdfg, Course: asdfgadsfg, Contact: 8920916103
+02/01/2024 22:35:22 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:35:22 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:37:28 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 22:37:28 - INFO - app -   User Registered with Transaction id: pay_NVgxukpdXj2Vzw, Event Name: Roborace, Team Name: erybhsdgxb, Team ID: 917553, Member ID: 1004, Name: sdbgsdfgbsdfgbsd, Course: dfsvgbsdbfg, Contact: 8920916103
+02/01/2024 22:37:33 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:37:33 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:37:34 - INFO - app -   User Registered with Transaction id: pay_NVgxukpdXj2Vzw, Event Name: Roborace, Team Name: erybhsdgxb, Team ID: 917553, Member ID: 11, Name: dgfasdfgvasdfv, Course: asvfdsdvfasdvfa, Contact: 8920916103
+02/01/2024 22:37:38 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:37:38 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:37:39 - INFO - app -   User Registered with Transaction id: pay_NVgxukpdXj2Vzw, Event Name: Roborace, Team Name: erybhsdgxb, Team ID: 917553, Member ID: 12, Name: afsvdsfasfva szdfg, Course: dafvasdfv as, Contact: 8920916103
+02/01/2024 22:37:43 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:37:43 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:41:10 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 22:41:10 - INFO - app -   User Registered with Transaction id: pay_NVh1q87N6yNazQ, Event Name: Codeathon, Team Name: sd vszfxgvdszfg, Team ID: 399515, Member ID: 1005, Name: asvdfasdvf, Course: asdvfasdfv as, Contact: 8920916103
+02/01/2024 22:41:12 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:41:12 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:41:13 - INFO - app -   User Registered with Transaction id: pay_NVh1q87N6yNazQ, Event Name: Codeathon, Team Name: sd vszfxgvdszfg, Team ID: 399515, Member ID: 11, Name: favdsfavsef, Course: asdfvsdfvasdf, Contact: 8920916103
+02/01/2024 22:41:13 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:41:13 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:41:13 - INFO - app -   User Registered with Transaction id: pay_NVh1q87N6yNazQ, Event Name: Codeathon, Team Name: sd vszfxgvdszfg, Team ID: 399515, Member ID: 12, Name: dfsavfasfvb, Course: savdfgasdgvffg, Contact: 8920916103
+02/01/2024 22:41:14 - INFO - Mail Client -   Mail Sent
+02/01/2024 22:41:14 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/01/2024 22:45:46 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/01/2024 23:27:26 - DEBUG - asyncio -   Using selector: EpollSelector
+02/01/2024 23:27:26 - INFO - app -   User Registered with Transaction id: pay_NVhohSS6ojRdJM, Event Name: Roborace, Team Name: Darten, Team ID: 106719, Member ID: 1067191, Name: Hitesh Kumar Sethi, Course: B.Tech CSE, Contact: 8920916103, Email: aaroegun@gmail.com

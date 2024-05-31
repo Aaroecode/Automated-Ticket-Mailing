@@ -1,0 +1,109 @@
+02/03/2024 23:55:15 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 23:55:15 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 23:55:16 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+02/03/2024 23:55:16 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 23:56:48 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/04/2024 00:01:13 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 00:01:14 - INFO - app -   User Registered with Transaction id: pay_NWVScsbx3z7312, Event Name: Credenza, Team Name: awetgraewtegr, Team ID: 501811, Member ID: 5018111, Name: asdfsadvxzcv, Course: xcvsadfgsdf, Contact: 8920916103, Email: seposo7853@namewok.com
+02/04/2024 00:01:14 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 00:01:33 - INFO - Mail Client -   Mail Sent
+02/04/2024 09:08:00 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 09:08:00 - INFO - app -   User Registered with Transaction id: pay_NWem6tQdTrCljF, Event Name: Credenza, Team Name: jhcf, Team ID: 899954, Member ID: 8999541, Name: tcrgc, Course: trxdf, Contact: 2345678942, Email: jibej98438@flexvio.com
+02/04/2024 09:08:00 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 09:08:00 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/04/2024 09:08:23 - INFO - Mail Client -   Mail Sent
+02/04/2024 09:12:55 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 09:12:55 - INFO - app -   User Registered with Transaction id: pay_NWerIml5ADp4Jm, Event Name: Roborace, Team Name: texghty, Team ID: 444184, Member ID: 4441841, Name: ctgxfbg, Course: ychtft, Contact: 1234567891, Email: gafoso6793@cubene.com
+02/04/2024 09:12:55 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 09:12:58 - INFO - Mail Client -   Mail Sent
+02/04/2024 09:17:47 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 09:17:47 - INFO - app -   User Registered with Transaction id: pay_NWewS3J9Uoix4U, Event Name: Codeathon, Team Name: ytdcdgfcg, Team ID: 207033, Member ID: 2070331, Name: hggcfcyh, Course: dtrcg, Contact: 2134654987, Email: veromel964@gosarlar.com
+02/04/2024 09:17:47 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 09:17:49 - INFO - Mail Client -   Mail Sent
+02/04/2024 09:20:21 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 09:20:21 - INFO - app -   User Registered with Transaction id: pay_NWezAtaXvD6KYH, Event Name: Roborace, Team Name: hgvcgh, Team ID: 553601, Member ID: 5536011, Name: yrctgfyg, Course: ytcgvhjb, Contact: 1234567894, Email: yenejoj348@gosarlar.com
+02/04/2024 09:20:21 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 09:20:25 - INFO - Mail Client -   Mail Sent
+02/04/2024 09:20:25 - INFO - app -   User Registered with Transaction id: pay_NWezAtaXvD6KYH, Event Name: Roborace, Team Name: hgvcgh, Team ID: 553601, Member ID: 55360111, Name: NestedName-1-1, Course: NestedCourse-1-1, Contact: NestedContact-1-1, Email: NestedEmail-1-1
+02/04/2024 09:20:25 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 09:20:36 - INFO - Mail Client -   Mail Sent
+02/04/2024 13:28:19 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 13:28:19 - INFO - app -   User Registered with Transaction id: pay_NWjD76u5ydNnjv, Event Name: Credenza, Team Name: dffgvesj, Team ID: 588072, Member ID: 5880721, Name: sdyfvcjsdv, Course: sjdfbjksv, Contact: 7896554545, Email: hekoli9280@cubene.com
+02/04/2024 13:28:19 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 13:28:19 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/04/2024 13:28:36 - INFO - Mail Client -   Mail Sent
+02/04/2024 13:28:36 - INFO - app -   User Registered with Transaction id: pay_NWjD76u5ydNnjv, Event Name: Credenza, Team Name: dffgvesj, Team ID: 588072, Member ID: 58807211, Name: ksfbbvrhj, Course: jdsfbhskb, Contact: 1234568787, Email: hisito7887@bitofee.com
+02/04/2024 13:28:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 13:28:41 - INFO - Mail Client -   Mail Sent
+02/04/2024 13:32:15 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 13:32:15 - INFO - app -   User Registered with Transaction id: pay_NWjHM1QGaDyI9c, Event Name: Codeathon, Team Name: sidcskdvnfk, Team ID: 799718, Member ID: 7997181, Name: dfvbskjf, Course: vksdfjvn, Contact: 2334567894, Email: verovig212@evvgo.com
+02/04/2024 13:32:16 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 13:32:21 - INFO - Mail Client -   Mail Sent
+02/04/2024 13:32:21 - INFO - app -   User Registered with Transaction id: pay_NWjHM1QGaDyI9c, Event Name: Codeathon, Team Name: sidcskdvnfk, Team ID: 799718, Member ID: 79971811, Name: sdjkbhekfvb, Course: kjsd kvjev, Contact: 1234567899, Email: kadib65116@alibrs.com
+02/04/2024 13:32:21 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 13:32:24 - INFO - Mail Client -   Mail Sent
+02/04/2024 16:26:59 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 16:26:59 - INFO - app -   User Registered with Transaction id: pay_NWmFsmyxeGxsXk, Event Name: Codeathon, Team Name: Incognito, Team ID: 492733, Member ID: 4927331, Name: Ritika Sethi, Course: BCA , Contact: 8920916103, Email: Ritikasethi53@gmail.com
+02/04/2024 16:26:59 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 16:26:59 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/04/2024 16:27:16 - INFO - Mail Client -   Mail Sent
+02/04/2024 16:27:16 - INFO - app -   User Registered with Transaction id: pay_NWmFsmyxeGxsXk, Event Name: Codeathon, Team Name: Incognito, Team ID: 492733, Member ID: 49273311, Name: Rizwan, Course: BCA, Contact: 9458041933, Email: tyagrizwan09@gmail.com
+02/04/2024 16:27:16 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 16:27:16 - INFO - Mail Client -   Mail Sent
+02/04/2024 17:43:50 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 17:43:50 - INFO - app -   User Registered with Transaction id: pay_NWnZ2G39XBLPCd, Event Name: Credenza, Team Name: hgvjy, Team ID: 216417, Member ID: 2164171, Name: htfytvhj, Course: hgfcth, Contact: 1234567894, Email: yjgvyjv@hgvjh.vhh
+02/04/2024 17:43:50 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 17:43:50 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/04/2024 17:44:11 - INFO - Mail Client -   Mail Sent
+02/04/2024 18:04:48 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 18:04:48 - INFO - app -   User Registered with Transaction id: pay_NWnvAMnKXMVfbb, Event Name: Roborace, Team Name: hgcfghvjb, Team ID: 933737, Member ID: 9337371, Name: hfchg j, Course: hgch, Contact: 1234567894, Email: jhvjhb@thvgh.jvhj
+02/04/2024 18:04:48 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 18:05:06 - INFO - Mail Client -   Mail Sent
+02/04/2024 18:07:37 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 18:07:37 - INFO - app -   User Registered with Transaction id: pay_NWny8z4e1y17N4, Event Name: Credenza, Team Name: uycvhjgh, Team ID: 502425, Member ID: 5024251, Name: hgvh, Course: hjgvjhb, Contact: 1324567897, Email: jhvbujhv@hbib.un
+02/04/2024 18:07:37 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/04/2024 18:07:41 - INFO - Mail Client -   Mail Sent
+02/04/2024 21:41:53 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 21:41:53 - ERROR - app.controller.main -   Exception on /qr/add [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 277, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 353, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "/home/hitesh/Darten/app/controller/main.py", line 48, in index
+    contact = str(member["contact"])
+KeyError: 'contact'
+02/04/2024 21:53:21 - DEBUG - asyncio -   Using selector: EpollSelector
+02/04/2024 21:53:21 - ERROR - app.controller.main -   Exception on /qr/add [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 277, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 353, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "/home/hitesh/Darten/app/controller/main.py", line 48, in index
+    contact = str(member["contact"])
+KeyError: 'contact'

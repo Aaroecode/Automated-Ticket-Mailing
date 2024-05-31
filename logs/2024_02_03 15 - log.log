@@ -1,0 +1,434 @@
+02/03/2024 15:20:55 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:20:55 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:20:55 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:28:39 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:28:39 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:28:39 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:33:02 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:33:02 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:33:02 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:34:29 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:34:29 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:34:29 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:36:13 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:36:13 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:36:13 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:36:42 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:36:42 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:36:42 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:38:02 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:38:02 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:38:02 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:38:32 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:38:32 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:38:32 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:41:35 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:41:35 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:41:35 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:41:35 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 15:41:35 - INFO - werkzeug -   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://85.202.160.176:3456
+02/03/2024 15:41:35 - INFO - werkzeug -   [33mPress CTRL+C to quit[0m
+02/03/2024 15:41:35 - INFO - werkzeug -    * Restarting with stat
+02/03/2024 15:41:36 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:41:36 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:41:36 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:41:36 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 15:41:36 - WARNING - werkzeug -    * Debugger is active!
+02/03/2024 15:41:36 - INFO - werkzeug -    * Debugger PIN: 598-346-532
+02/03/2024 15:41:59 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:41:59 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:41:59 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:41:59 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 15:41:59 - INFO - werkzeug -   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://85.202.160.176:3456
+02/03/2024 15:41:59 - INFO - werkzeug -   [33mPress CTRL+C to quit[0m
+02/03/2024 15:41:59 - INFO - werkzeug -    * Restarting with stat
+02/03/2024 15:41:59 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:41:59 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:41:59 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:41:59 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 15:42:00 - WARNING - werkzeug -    * Debugger is active!
+02/03/2024 15:42:00 - INFO - werkzeug -    * Debugger PIN: 598-346-532
+02/03/2024 15:42:51 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:42:51 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:42:51 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:42:51 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 15:42:55 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 15:42:55 - INFO - app -   User Registered with Transaction id: pay_NUuaIbjRBMVU6B, Event Name: Credenza, Team Name: dovihndihls, Team ID: 363677, Member ID: 3636771, Name: sdvdsvdsv, Course: sfbsvgfbgs, Contact: 1234567894, Email: businessmesdcsdvvsdfdvtfhrtrtarkdbdgsea@gmail.com
+02/03/2024 15:42:55 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:42:55 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:42:55 - INFO - GSHEETS -   <google.oauth2.credentials.Credentials object at 0x7fef0f96d9f0>
+02/03/2024 15:42:55 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:42:55 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:42:55 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:42:55 - ERROR - app.controller.main -   Exception on /qr/add [POST]
+Traceback (most recent call last):
+  File "/home/hitesh/Darten/app/utilities/gsheets.py", line 58, in append
+    response = self.sheet.values().append(spreadsheetId = self.sheetID, range= "Sheet1!A1", body =body, valueInputOption = "RAW").execute()
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/http.py", line 923, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/http.py", line 191, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/google_auth_httplib2.py", line 209, in request
+    self.credentials.before_request(self._request, method, uri, request_headers)
+  File "/usr/local/lib/python3.10/dist-packages/google/auth/credentials.py", line 228, in before_request
+    self._blocking_refresh(request)
+  File "/usr/local/lib/python3.10/dist-packages/google/auth/credentials.py", line 191, in _blocking_refresh
+    self.refresh(request)
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/credentials.py", line 430, in refresh
+    ) = reauth.refresh_grant(
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/reauth.py", line 365, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/_client.py", line 72, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 277, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 353, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "/home/hitesh/Darten/app/controller/main.py", line 74, in index
+    Config.sheet.append([date, TeamId, TeamName, event, id, name, course, contact, email, hashId])
+  File "/home/hitesh/Darten/app/utilities/gsheets.py", line 62, in append
+    self.creds.refresh(Request())
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/credentials.py", line 430, in refresh
+    ) = reauth.refresh_grant(
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/reauth.py", line 365, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/_client.py", line 72, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+02/03/2024 15:43:37 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 15:44:03 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 15:44:26 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 15:44:26 - INFO - app -   User Registered with Transaction id: pay_NUuaIbjRBMVU6B, Event Name: Credenza, Team Name: dovihndihls, Team ID: 363677, Member ID: 3636771, Name: sdvdsvdsv, Course: sfbsvgfbgs, Contact: 1234567894, Email: businessmesdcsdvvsdfdvtfhrtrtarkdbdgsea@gmail.com
+02/03/2024 15:44:26 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:44:26 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:44:26 - INFO - GSHEETS -   <google.oauth2.credentials.Credentials object at 0x7fef0f96d9f0>
+02/03/2024 15:44:26 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 15:44:26 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/03/2024 15:44:27 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+02/03/2024 15:44:27 - ERROR - app.controller.main -   Exception on /qr/add [POST]
+Traceback (most recent call last):
+  File "/home/hitesh/Darten/app/utilities/gsheets.py", line 58, in append
+    response = self.sheet.values().append(spreadsheetId = self.sheetID, range= "Sheet1!A1", body =body, valueInputOption = "RAW").execute()
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/http.py", line 923, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/http.py", line 191, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/google_auth_httplib2.py", line 209, in request
+    self.credentials.before_request(self._request, method, uri, request_headers)
+  File "/usr/local/lib/python3.10/dist-packages/google/auth/credentials.py", line 228, in before_request
+    self._blocking_refresh(request)
+  File "/usr/local/lib/python3.10/dist-packages/google/auth/credentials.py", line 191, in _blocking_refresh
+    self.refresh(request)
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/credentials.py", line 430, in refresh
+    ) = reauth.refresh_grant(
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/reauth.py", line 365, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/_client.py", line 72, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 277, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 353, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "/home/hitesh/Darten/app/controller/main.py", line 74, in index
+    Config.sheet.append([date, TeamId, TeamName, event, id, name, course, contact, email, hashId])
+  File "/home/hitesh/Darten/app/utilities/gsheets.py", line 62, in append
+    self.creds.refresh(Request())
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/credentials.py", line 430, in refresh
+    ) = reauth.refresh_grant(
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/reauth.py", line 365, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/_client.py", line 72, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+02/03/2024 15:45:03 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 15:48:10 - DEBUG - requests_oauthlib.oauth2_session -   Generated new state Xji1Br9NYatpOtO4a9VokjG3HCfCs4.
+02/03/2024 15:50:13 - DEBUG - requests_oauthlib.oauth2_session -   Generated new state c5EHnGAmvAD14ju3lR2hWjXfPk7ETn.
+02/03/2024 15:51:19 - DEBUG - requests_oauthlib.oauth2_session -   Generated new state zx8srdleFHyHabv0ARc3JiS0QDXplL.
+02/03/2024 15:54:17 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 15:54:18 - INFO - werkzeug -   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://85.202.160.176:3456
+02/03/2024 15:54:18 - INFO - werkzeug -   [33mPress CTRL+C to quit[0m
+02/03/2024 15:54:18 - INFO - werkzeug -    * Restarting with stat
+02/03/2024 15:54:18 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 15:54:18 - WARNING - werkzeug -    * Debugger is active!
+02/03/2024 15:54:18 - INFO - werkzeug -    * Debugger PIN: 598-346-532
+02/03/2024 15:54:25 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 15:55:05 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 15:55:17 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 15:55:17 - INFO - app -   User Registered with Transaction id: pay_NUuaIbjRBMVU6B, Event Name: Credenza, Team Name: dovihndihls, Team ID: 363677, Member ID: 3636771, Name: sdvdsvdsv, Course: sfbsvgfbgs, Contact: 1234567894, Email: businessmesdcsdvvsdfdvtfhrtrtarkdbdgsea@gmail.com
+02/03/2024 15:55:17 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:19 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:19 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:20 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:20 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:20 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:21 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:22 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:22 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:23 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:23 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:23 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:23 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:24 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:24 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:25 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:25 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:25 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:25 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:26 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:27 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:27 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:28 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:28 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:28 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:28 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:29 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:29 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:30 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:30 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:31 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:31 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:32 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:32 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:32 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:32 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:33 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:33 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:33 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:34 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:34 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:35 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:35 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:35 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:35 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:37 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:37 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:37 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:38 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:38 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:39 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:39 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:40 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:40 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:40 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:41 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:41 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:41 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:41 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:42 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 15:55:42 - INFO - GSHEETS -   <google.oauth2.credentials.Credentials object at 0x7f7e202919c0>
+02/03/2024 15:55:42 - DEBUG - requests_oauthlib.oauth2_session -   Generated new state qqel8NS5Sw6FlS477VZwF6dBOim6Ua.
+02/03/2024 15:55:42 - ERROR - app.controller.main -   Exception on /qr/add [POST]
+Traceback (most recent call last):
+  File "/home/hitesh/Darten/app/utilities/gsheets.py", line 58, in append
+    response = self.sheet.values().append(spreadsheetId = self.sheetID, range= "Sheet1!A1", body =body, valueInputOption = "RAW").execute()
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 429 when requesting https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json returned "Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:887913046115'.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'RATE_LIMIT_EXCEEDED', 'domain': 'googleapis.com', 'metadata': {'service': 'sheets.googleapis.com', 'quota_limit': 'WriteRequestsPerMinutePerUser', 'consumer': 'projects/887913046115', 'quota_metric': 'sheets.googleapis.com/write_requests', 'quota_location': 'global', 'quota_limit_value': '60'}}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Request a higher quota limit.', 'url': 'https://cloud.google.com/docs/quota#requesting_higher_quota'}]}]">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 277, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 353, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "/home/hitesh/Darten/app/controller/main.py", line 74, in index
+    Config.sheet.append([date, TeamId, TeamName, event, id, name, course, contact, email, hashId])
+  File "/home/hitesh/Darten/app/utilities/gsheets.py", line 65, in append
+    creds = self.flow.run_local_server(port=0)
+  File "/usr/local/lib/python3.10/dist-packages/google_auth_oauthlib/flow.py", line 444, in run_local_server
+    webbrowser.get(browser).open(auth_url, new=1, autoraise=True)
+  File "/usr/lib/python3.10/webbrowser.py", line 65, in get
+    raise Error("could not locate runnable browser")
+webbrowser.Error: could not locate runnable browser
+02/03/2024 16:03:09 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 16:03:09 - INFO - app -   User Registered with Transaction id: pay_NUuaIbjRBMVU6B, Event Name: Credenza, Team Name: dovihndihls, Team ID: 363677, Member ID: 3636771, Name: sdvdsvdsv, Course: sfbsvgfbgs, Contact: 1234567894, Email: businessmesdcsdvvsdfdvtfhrtrtarkdbdgsea@gmail.com
+02/03/2024 16:03:09 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:09 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:09 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:10 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:11 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:11 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:11 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:12 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:12 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:12 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:12 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:13 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:13 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:13 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:13 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:14 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:14 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:15 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:15 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:15 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:15 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:16 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:16 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:17 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:17 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:17 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:17 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:18 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:18 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:19 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:19 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:19 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:20 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:21 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:22 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:22 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:22 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:23 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:24 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:24 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:24 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:24 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:25 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:25 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:26 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:26 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:26 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:26 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:27 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:27 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:28 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:28 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:28 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:28 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:29 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:29 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:29 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:30 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:30 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:30 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:30 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:30 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:31 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:32 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:32 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:33 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:33 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:33 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:34 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:34 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:34 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:34 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:35 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:35 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:35 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:37 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:38 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:38 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:39 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:39 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:39 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:39 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:40 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:40 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:40 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:03:40 - INFO - GSHEETS -   <google.oauth2.credentials.Credentials object at 0x7f7e202919c0>
+02/03/2024 16:03:40 - DEBUG - requests_oauthlib.oauth2_session -   Generated new state xKAOVeOY8vpc8aqAeZtm9Km8bpODmu.
+02/03/2024 16:03:40 - ERROR - app.controller.main -   Exception on /qr/add [POST]
+Traceback (most recent call last):
+  File "/home/hitesh/Darten/app/utilities/gsheets.py", line 58, in append
+    response = self.sheet.values().append(spreadsheetId = self.sheetID, range= "Sheet1!A1", body =body, valueInputOption = "RAW").execute()
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 429 when requesting https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json returned "Quota exceeded for quota metric 'Write requests' and limit 'Write requests per minute per user' of service 'sheets.googleapis.com' for consumer 'project_number:887913046115'.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'RATE_LIMIT_EXCEEDED', 'domain': 'googleapis.com', 'metadata': {'quota_limit_value': '60', 'quota_metric': 'sheets.googleapis.com/write_requests', 'consumer': 'projects/887913046115', 'service': 'sheets.googleapis.com', 'quota_location': 'global', 'quota_limit': 'WriteRequestsPerMinutePerUser'}}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Request a higher quota limit.', 'url': 'https://cloud.google.com/docs/quota#requesting_higher_quota'}]}]">
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 277, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 353, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "/home/hitesh/Darten/app/controller/main.py", line 74, in index
+    Config.sheet.append([date, TeamId, TeamName, event, id, name, course, contact, email, hashId])
+  File "/home/hitesh/Darten/app/utilities/gsheets.py", line 65, in append
+    self.flow = InstalledAppFlow.from_client_secrets_file(self.creds_path, scopes=self.scope)
+  File "/usr/local/lib/python3.10/dist-packages/google_auth_oauthlib/flow.py", line 444, in run_local_server
+    webbrowser.get(browser).open(auth_url, new=1, autoraise=True)
+  File "/usr/lib/python3.10/webbrowser.py", line 65, in get
+    raise Error("could not locate runnable browser")
+webbrowser.Error: could not locate runnable browser

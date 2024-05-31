@@ -1,0 +1,15 @@
+02/03/2024 16:04:20 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/03/2024 16:04:30 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 16:04:30 - INFO - app -   User Registered with Transaction id: pay_NUuaIbjRBMVU6B, Event Name: Credenza, Team Name: dovihndihls, Team ID: 363677, Member ID: 3636771, Name: sdvdsvdsv, Course: sfbsvgfbgs, Contact: 1234567894, Email: businessmesdcsdvvsdfdvtfhrtrtarkdbdgsea@gmail.com
+02/03/2024 16:04:30 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:04:44 - INFO - Mail Client -   Mail Sent
+02/03/2024 16:04:44 - INFO - app -   User Registered with Transaction id: pay_NUuaIbjRBMVU6B, Event Name: Credenza, Team Name: dovihndihls, Team ID: 363677, Member ID: 36367711, Name: dfgvdfsds, Course: dfdvdfv, Contact: 1234567894, Email: aaroegun@gmail.com
+02/03/2024 16:04:44 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:04:45 - INFO - Mail Client -   Mail Sent
+02/03/2024 16:04:45 - INFO - app -   User Registered with Transaction id: pay_NUuaIbjRBMVU6B, Event Name: Credenza, Team Name: dovihndihls, Team ID: 363677, Member ID: 36367712, Name: xdjvhbcdjvsdvsdv, Course: aksbhdcdsuf, Contact: 1234567894, Email: zdvcrvdfjjsdjbvhj@gmail.com
+02/03/2024 16:04:45 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:04:45 - INFO - Mail Client -   Mail Sent
+02/03/2024 16:37:36 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 16:37:36 - INFO - app -   User Registered with Transaction id: pay_NWNu1ifPgiymTk, Event Name: Codeathon, Team Name: Jgug, Team ID: 454033, Member ID: 4540331, Name: Aditya Kumar, Course: Ufufu, Contact: 8210372085, Email: arun06gaya@gmail.com
+02/03/2024 16:37:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 16:37:49 - INFO - Mail Client -   Mail Sent

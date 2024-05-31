@@ -1,0 +1,4 @@
+04/03/2024 21:45:07 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+04/03/2024 21:45:07 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+04/03/2024 21:45:07 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+04/03/2024 21:45:07 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0

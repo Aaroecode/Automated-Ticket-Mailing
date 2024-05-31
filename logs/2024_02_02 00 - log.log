@@ -1,0 +1,46 @@
+02/02/2024 00:00:05 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/02/2024 00:01:19 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 00:01:19 - INFO - app -   User Registered with Transaction id: pay_NViOU7hpgZYg6e, Event Name: Roborace, Team Name: asdfasdf v, Team ID: 902822, Member ID: 9028221, Name: adfadsfasdf, Course: dsfasdf, Contact: 8920916103, Email: siway85752@namewok.com
+02/02/2024 00:01:26 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:01:26 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 00:27:36 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/02/2024 00:27:36 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/02/2024 00:27:36 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+02/02/2024 00:27:36 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/02/2024 00:29:04 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 00:29:04 - INFO - app -   User Registered with Transaction id: pay_NVirnGsxtwdYJp, Event Name: Roborace, Team Name: dsafaf, Team ID: 945767, Member ID: 9457671, Name: adads, Course: asdasd, Contact: 8920916103, Email: janev15743@namewok.com
+02/02/2024 00:29:19 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:29:19 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 00:32:42 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 00:32:42 - INFO - app -   User Registered with Transaction id: pay_NVivdTZelJXESk, Event Name: Codeathon, Team Name: fhgh, Team ID: 409535, Member ID: 4095351, Name: Aditya Kumar, Course: gjh, Contact: 7667728029, Email: adityakumar15122@gmail.com
+02/02/2024 00:32:47 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:32:47 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 00:40:00 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 00:40:00 - INFO - app -   User Registered with Transaction id: pay_NVj3HJyfgqylpM, Event Name: Credenza, Team Name: dfds, Team ID: 667213, Member ID: 6672131, Name: Piyush Nishad, Course: sdfsdvg, Contact: 1234567894, Email: dsvsdvfdvbusinessmarksea@gmail.com
+02/02/2024 00:40:05 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:40:05 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 00:40:06 - INFO - app -   User Registered with Transaction id: pay_NVj3HJyfgqylpM, Event Name: Credenza, Team Name: dfds, Team ID: 667213, Member ID: 66721311, Name: vsdvsdbvfd dsvsdvge dsvfdv, Course: dsvfsfv, Contact: 123456789, Email: dsvdvdfvbbusinessmarksea@gmail.com
+02/02/2024 00:40:06 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:40:06 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 00:43:54 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 00:43:54 - INFO - app -   User Registered with Transaction id: pay_NVj7PyBMMpX4h3, Event Name: Credenza, Team Name: dfds, Team ID: 258364, Member ID: 2583641, Name: Piyush Nishad, Course: sdfsdvg, Contact: 1234567894, Email: dsvsdvfdvburksea@gmail.com
+02/02/2024 00:43:56 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:43:56 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 00:46:28 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 00:46:28 - INFO - app -   User Registered with Transaction id: pay_NVjA3bAW3hvNyK, Event Name: Credenza, Team Name: dfds, Team ID: 777049, Member ID: 7770491, Name: Piyush Nishad, Course: sdfsdvg, Contact: 1234567894, Email: dsvsvburksea@gmail.com
+02/02/2024 00:46:29 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:46:29 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 00:50:00 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 00:50:00 - INFO - app -   User Registered with Transaction id: pay_NVjDqn9ZpdxaL2, Event Name: Roborace, Team Name: Jshs, Team ID: 907734, Member ID: 9077341, Name: Heheheh, Course: Jshdheh, Contact: 1875165978, Email: kdbdhzj@gmail.com
+02/02/2024 00:50:02 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:50:02 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 00:50:03 - INFO - app -   User Registered with Transaction id: pay_NVjDqn9ZpdxaL2, Event Name: Roborace, Team Name: Jshs, Team ID: 907734, Member ID: 90773411, Name: Jshdgdu, Course: Jshdhdu, Contact: 9784615237, Email: kdhdhsja@gmail.com
+02/02/2024 00:50:10 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:50:10 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 00:56:29 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 00:56:29 - INFO - app -   User Registered with Transaction id: pay_NVjKiG9z7FGEOV, Event Name: Roborace, Team Name: Jshs, Team ID: 482207, Member ID: 4822071, Name: Heheheh, Course: Jshdheh, Contact: 1875165978, Email: kdbduyhzj@gmail.com
+02/02/2024 00:56:36 - INFO - Mail Client -   Mail Sent
+02/02/2024 00:56:36 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 07:52:15 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 07:57:27 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 07:57:27 - INFO - app -   User Registered with Transaction id: pay_NVqVRu2x1f2ZDn, Event Name: Codeathon, Team Name: fdfvafvasfdvas, Team ID: 421515, Member ID: 4215151, Name: astvsdfv, Course: asvfavsdf, Contact: 8920916103, Email: hiyagoc945@alibrs.com

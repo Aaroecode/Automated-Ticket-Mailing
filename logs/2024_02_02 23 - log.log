@@ -1,0 +1,72 @@
+02/02/2024 23:29:01 - DEBUG - google.auth.transport.requests -   Making request: POST https://oauth2.googleapis.com/token
+02/02/2024 23:29:01 - DEBUG - urllib3.connectionpool -   Starting new HTTPS connection (1): oauth2.googleapis.com:443
+02/02/2024 23:29:01 - DEBUG - urllib3.connectionpool -   https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+02/02/2024 23:29:01 - INFO - googleapiclient.discovery_cache -   file_cache is only supported with oauth2client<4.0.0
+02/02/2024 23:30:05 - DEBUG - asyncio -   Using selector: EpollSelector
+02/02/2024 23:30:05 - INFO - app -   User Registered with Transaction id: pay_NW6OcbXC4g2hiC, Event Name: Codeathon, Team Name: Darten, Team ID: 862472, Member ID: 8624721, Name: Hitesh Kumar Sethi, Course: adadsfadfsadsf, Contact: 8920916103, Email: lenij50146@bitofee.com
+02/02/2024 23:30:05 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/02/2024 23:30:23 - INFO - Mail Client -   Mail Sent
+02/03/2024 10:36:30 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 10:36:30 - INFO - app -   User Registered with Transaction id: pay_NWHkV4Ukktfocl, Event Name: Credenza, Team Name: Uygyuy, Team ID: 701163, Member ID: 7011631, Name: Dhrhdidi, Course: Ndhdidh, Contact: 9784654678, Email: xipavo5852@namewok.com
+02/03/2024 10:36:30 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 10:36:30 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 10:36:47 - INFO - Mail Client -   Mail Sent
+02/03/2024 10:36:47 - INFO - app -   User Registered with Transaction id: pay_NWHkV4Ukktfocl, Event Name: Credenza, Team Name: Uygyuy, Team ID: 701163, Member ID: 70116311, Name: NestedName-1-1, Course: NestedCourse-1-1, Contact: NestedContact-1-1, Email: NestedEmail-1-1
+02/03/2024 10:36:47 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 10:36:49 - INFO - Mail Client -   Mail Sent
+02/03/2024 12:05:10 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 12:05:10 - INFO - app -   User Registered with Transaction id: pay_NWJGEmm01DYnnp, Event Name: Credenza, Team Name: dfsdfdsf, Team ID: 383934, Member ID: 3839341, Name: asdfadfsdf, Course: sdfasdfasdf, Contact: 8920916103, Email: ravepo8623@alibrs.com
+02/03/2024 12:05:10 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 12:05:10 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 12:05:24 - INFO - Mail Client -   Mail Sent
+02/03/2024 14:36:17 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 14:36:17 - INFO - app -   User Registered with Transaction id: pay_NWLpoL62YmbtpT, Event Name: Credenza, Team Name: jbh kjvhjj, Team ID: 858434, Member ID: 8584341, Name: Piyush Nishad, Course: gfvghgh, Contact: 1235645674, Email: jiciwoc502@evvgo.com
+02/03/2024 14:36:17 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 14:36:17 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 14:36:32 - INFO - Mail Client -   Mail Sent
+02/03/2024 14:43:29 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 14:47:08 - DEBUG - asyncio -   Using selector: EpollSelector
+02/03/2024 14:47:08 - INFO - app -   User Registered with Transaction id: pay_NWM1KCHpkgswwd, Event Name: Codeathon, Team Name: Special, Team ID: 445000, Member ID: 4450001, Name: Adi, Course: Btech, Contact: 7658686886, Email: arun05gaya@gmail.com
+02/03/2024 14:47:08 - DEBUG - googleapiclient.discovery -   URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1euuUXN28zBf8ZolLKXkzsriMosTyiXkziknUzjNIFOI/values/Sheet1%21A1:append?valueInputOption=RAW&alt=json
+02/03/2024 14:47:08 - DEBUG - google_auth_httplib2 -   Making request: POST https://oauth2.googleapis.com/token
+02/03/2024 14:47:08 - ERROR - app.controller.main -   Exception on /qr/add [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 277, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.10/dist-packages/asgiref/sync.py", line 353, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "/home/hitesh/Darten/app/controller/main.py", line 74, in index
+    Config.sheet.append([date, TeamId, TeamName, event, id, name, course, contact, email, hashId])
+  File "/home/hitesh/Darten/app/utilities/gsheets.py", line 49, in append
+    response = self.sheet.values().append(spreadsheetId = self.sheetID, range= "Sheet1!A1", body =body, valueInputOption = "RAW").execute()
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/http.py", line 923, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.10/dist-packages/googleapiclient/http.py", line 191, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/google_auth_httplib2.py", line 209, in request
+    self.credentials.before_request(self._request, method, uri, request_headers)
+  File "/usr/local/lib/python3.10/dist-packages/google/auth/credentials.py", line 228, in before_request
+    self._blocking_refresh(request)
+  File "/usr/local/lib/python3.10/dist-packages/google/auth/credentials.py", line 191, in _blocking_refresh
+    self.refresh(request)
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/credentials.py", line 430, in refresh
+    ) = reauth.refresh_grant(
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/reauth.py", line 365, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "/usr/local/lib/python3.10/dist-packages/google/oauth2/_client.py", line 72, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
